@@ -14,6 +14,16 @@ function johnLennonFacts(facts) {
     i++;
   }
   return facts;
+
+  // Solution
+
+    // const shoutedFacts = []
+    // let i = 0
+    // while (i < facts.length) {
+    //   shoutedFacts.push(`${facts[i]}!!!`)
+    //   i++
+    // }
+    // return shoutedFacts
 }
 
 function iLoveTheBeatles(num) {
